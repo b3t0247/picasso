@@ -106,3 +106,39 @@ body {
     top: -10px;
     left: 70px;
 }
+
+#white-paper {
+    width: 400px;
+    height: 100px;
+    background-color: ghostwhite;
+    position: absolute;
+    top: 250px;
+    left: -150px;
+    z-index: 1;
+}
+
+.fa-music {
+    display: inline-block;
+    margin-top: 8%;
+    margin-left: 13%;
+}
+
+.blue {
+    background-color: #1E90FF;
+}
+
+#blue-left {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+}
+
+#blue-right {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+}
